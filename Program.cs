@@ -64,6 +64,7 @@ else PrintNumbers(userN, userM);
 
 Console.WriteLine();
 Console.WriteLine($"{Ackermann(3, 2)}");
+Console.WriteLine($"{Ackermann(2, 3)}");
 
 // Задача 3: Задайте произвольный массив. Выведете
 // его элементы, начиная с конца. Использовать
